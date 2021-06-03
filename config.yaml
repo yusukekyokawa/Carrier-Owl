@@ -9,6 +9,8 @@ keywords:
         imagenet: 1
         fractal: 2
         ensemble: 3
+        transformer: 1
+        factual inconsistency: 3
         
 
 # 通知の閾値
