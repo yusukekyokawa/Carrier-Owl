@@ -7,6 +7,9 @@ keywords:
         texture: 3
         shape bias: 2
         imagenet: 1
+        fractal: 2
+        ensemble: 3
+        
 
 # 通知の閾値
 score_threshold: 0
