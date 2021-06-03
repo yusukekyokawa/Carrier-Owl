@@ -11,6 +11,8 @@ keywords:
         ensemble: 3
         transformer: 1
         factual inconsistency: 3
+        factual consistency: 3
+        factual: 1
         
 
 # 通知の閾値
